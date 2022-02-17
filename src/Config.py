@@ -2,11 +2,11 @@ import os
 
 class Config:
 
-    aid = int(os.environ.get("APP_ID", "18622297"))
+    aid = int(os.environ.get("APP_ID", "18564918"))
 
-    ahash = os.environ.get("API_HASH", "27e6993af0786f66f96599db6cd10bcc")
+    ahash = os.environ.get("API_HASH", "fd99995bc013e54c3649fb563d1d18b9")
 
-    bot_token = os.environ.get("BOT_TOKEN", "5006835603:AAEOu5gqL7vi6CxnxLCo4lCgxh95aWFH2fU")
+    bot_token = os.environ.get("BOT_TOKEN", "5255418003:AAEg6f4tcTNPNDp1p3WsnxPTd8aIqgo6LAY")
 
     sudo = [163494588, 1511373882]
 
